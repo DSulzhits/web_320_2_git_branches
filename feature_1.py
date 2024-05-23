@@ -3,3 +3,5 @@ def summ(a, b):
 
 
 summ(2, 8)
+
+print("some feature")
